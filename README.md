@@ -1,2 +1,9 @@
-# terrabyte-batch-workspaces
-Collection of batch files that open a series of browser windows used in various Terrabyte workflows.
+# Open Workspaces via Batch file!
+
+Easily open a series of webpages that are needed for various Pixel Planet Today workflows.
+
+Batch files and what they do:
+
+- `new-post.bat` opens websites used to post on social media about a new Terrabyte post
+
+**Note:** These configurations align with a general Windows setup. In order to create a customized one for yourself, create your own branch or fork the repo and make adjustments accordingly.
